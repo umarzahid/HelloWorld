@@ -1,0 +1,5 @@
+C:\Users\pcPareto\Documents\HelloWorld\HellowWorldGit\HellowWorldGit\bin\HellowWorldGit.dll
+C:\Users\pcPareto\Documents\HelloWorld\HellowWorldGit\HellowWorldGit\bin\HellowWorldGit.pdb
+C:\Users\pcPareto\Documents\HelloWorld\HellowWorldGit\HellowWorldGit\obj\Debug\HellowWorldGit.csprojResolveAssemblyReference.cache
+C:\Users\pcPareto\Documents\HelloWorld\HellowWorldGit\HellowWorldGit\obj\Debug\HellowWorldGit.dll
+C:\Users\pcPareto\Documents\HelloWorld\HellowWorldGit\HellowWorldGit\obj\Debug\HellowWorldGit.pdb
